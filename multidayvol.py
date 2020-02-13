@@ -9,7 +9,7 @@ import json
 
 sys.__stdout__=sys.stdout
 
-KEY='DEMO'
+KEY=''
 
 ETF=['SPY','TLT','GLD','XLE']
 
